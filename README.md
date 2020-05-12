@@ -1,5 +1,4 @@
 # Part of speech tagging
-*Udacity - Machine Learning - Introduction Nanodegree Program*
 *Udacity - Natural Language Processing Nanodegree Program*
 
 ## Project Overview
